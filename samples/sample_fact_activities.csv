@@ -1,0 +1,3 @@
+activity_id,created_utc,event_time_local,event_type,contact_id,contact_email,subject,details
+1001,2026-01-01T12:00:00Z,2026-01-01 12:00:00 UTC,email_open,1,alice@example.com,Welcome email,Opened campaign 321
+1002,2026-01-02T09:30:00Z,2026-01-02 09:30:00 UTC,note_add,2,bob@example.com,,Note created by user 55
